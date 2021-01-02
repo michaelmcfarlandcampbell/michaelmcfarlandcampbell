@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🌱 I’m currently learning about User-Centric Front-End Development as part of my course with Code Institute. 
+
+😄 Pronouns: He/him
+
+📫 How to reach me: Quickest way of getting hold of me is via Twitter, @hivblogger.
 <!--
 **michaelmcfarlandcampbell/michaelmcfarlandcampbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
