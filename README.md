@@ -5,6 +5,8 @@
 😄 Pronouns: He/him
 
 📫 How to reach me: Quickest way of getting hold of me is via Twitter, @hivblogger.
+
+Member of the Institute of Scientific and Technical Communicators. MISTC. 
 <!--
 **michaelmcfarlandcampbell/michaelmcfarlandcampbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
