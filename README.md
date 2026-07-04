@@ -1,12 +1,9 @@
-### Hi there 👋
+### Hi, I’m Michael McFarland Campbell 👋
+I’m a writer, communicator, organist, and digital creator based in Ireland.
 
-🌱 I’m currently learning about User-Centric Front-End Development as part of my course with Code Institute. 
+My work brings together faith, accessibility, governance, and technology. I enjoy building websites, writing hymns and reflections, exploring digital publishing, and creating resources that help people and communities flourish.
 
-😄 Pronouns: He/him
 
-📫 How to reach me: Quickest way of getting hold of me is via Twitter, @hivblogger.
-
-Member of the Institute of Scientific and Technical Communicators. MISTC. 
 <!--
 **michaelmcfarlandcampbell/michaelmcfarlandcampbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
