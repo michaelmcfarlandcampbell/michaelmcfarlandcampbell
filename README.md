@@ -1,6 +1,5 @@
 # Michael McFarland Campbell
-Writer • Organist • Communicator • Digital Creator
-
+Writer • Organist • Communicator • Benedictine
 Welcome! I'm Michael, an Anglican writer and communicator based in Ireland. My work explores the meeting point of faith, creativity, accessibility, governance, and technology.
 While many GitHub profiles showcase software projects, mine is increasingly a home for the digital tools, websites, and resources that support my writing and publishing.
 ## 🌿 What I'm working on
@@ -26,10 +25,10 @@ While many GitHub profiles showcase software projects, mine is increasingly a ho
 
 Technology is not my destination—it's one of the ways I share ideas, tell stories, and help communities flourish.
 ## 🌐 Online
-- 🌿 https://neurodivine.ie
-- ✍️ https://michaelmcfarlandcampbell.org
-- 📷 https://pilgrimlight.ie
-- 🌈 https://gyronnyherald.com
+- 🌿 **NeuroDivine** — https://neurodivine.ie
+- 📷 **Pilgrim Light** — https://pilgrimlight.ie
+- 🌈 **Gyronny Herald** — https://gyronnyherald.com
+- ✍️ **Author website** — https://michaelmcfarlandcampbell.org
 ---
 > *"Whatever you do, work at it with all your heart, as working for the Lord."*  
 > — Colossians 3:23
