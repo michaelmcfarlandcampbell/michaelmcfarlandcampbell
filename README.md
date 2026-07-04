@@ -1,47 +1,35 @@
-# Hi, I'm Michael McFarland Campbell 👋
-
-I'm a writer, communicator, organist, and digital creator based in Ireland.
-
-My work brings together faith, accessibility, governance, and technology. I enjoy building websites, writing hymns and reflections, exploring digital publishing, and creating resources that help people and communities flourish.
-
-## 🌿 Current Projects
-
+# Michael McFarland Campbell
+Writer • Organist • Communicator • Digital Creator
+Welcome! I'm Michael, an Anglican writer and communicator based in Ireland. My work explores the meeting point of faith, creativity, accessibility, governance, and technology.
+While many GitHub profiles showcase software projects, mine is increasingly a home for the digital tools, websites, and resources that support my writing and publishing.
+## 🌿 What I'm working on
 - **NeuroDivine** – reflections, hymns, poetry, and resources exploring faith, neurodivergence, and the holy in everyday life.
-- **Pilgrim Light** – photography of sacred places, pilgrimage, and the beauty of ordinary landscapes.
-- Writing books, hymn collections, and liturgical resources.
-- Organist and Parish Reader in the Church of Ireland.
-- Advocate for accessible healthcare, shared care, and patient partnership while living with haemodialysis.
-- Volunteer in communications and governance with St John Ambulance Ireland.
-
-## 💡 Interests
-
-- Anglican spirituality
-- Inclusive ministry
-- Digital publishing
-- Accessibility and user experience
-- Governance and charity leadership
-- Web technologies
-- Heritage, history, and heraldry
-
+- **Pilgrim Light** – photography celebrating pilgrimage, sacred places, and the beauty of ordinary landscapes.
+- Writing hymn collections, devotional books, and liturgical resources for the Church.
+- Building websites and digital publishing workflows using WordPress, Markdown, and Git.
+- Supporting good governance, communications, and accessibility in the voluntary sector.
+## ❤️ Causes close to my heart
+- Accessible healthcare and shared-care dialysis
+- Neurodiversity and inclusion
+- LGBTQ+ inclusion in the Church
+- Anglican spirituality and liturgy
+- Charity governance
+- Digital accessibility
 ## 🛠 Technologies
-
 - HTML5
 - CSS3
 - JavaScript
 - WordPress
 - Git & GitHub
 - Markdown
-
-## 🌐 Find me online
-
+Technology is not my destination—it's one of the ways I share ideas, tell stories, and help communities flourish.
+## 🌐 Online
 - 🌿 https://neurodivine.ie
 - ✍️ https://michaelmcfarlandcampbell.org
 - 📷 https://pilgrimlight.ie
 - 🌈 https://gyronnyherald.com
-
 ---
-
-> *"Whatever you do, work at it with all your heart."*  
+> *"Whatever you do, work at it with all your heart, as working for the Lord."*  
 > — Colossians 3:23
 
 
